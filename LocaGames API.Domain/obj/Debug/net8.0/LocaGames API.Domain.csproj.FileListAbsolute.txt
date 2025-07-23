@@ -9,3 +9,15 @@ C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Doma
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Domain\obj\Debug\net8.0\refint\LocaGames API.Domain.dll
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.pdb
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Domain\obj\Debug\net8.0\ref\LocaGames API.Domain.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\bin\Debug\net8.0\LocaGames API.Domain.deps.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\bin\Debug\net8.0\LocaGames API.Domain.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\bin\Debug\net8.0\LocaGames API.Domain.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.AssemblyInfoInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.AssemblyInfo.cs
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.sourcelink.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\refint\LocaGames API.Domain.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\LocaGames API.Domain.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Domain\obj\Debug\net8.0\ref\LocaGames API.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mEuHEsfsoM=",
+  "dgSpecHash": "NEnnZ+166gE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API\\LocaGames API.csproj",
+  "projectFilePath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API\\LocaGames API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAMUELBORBAGOULART\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SAMUELBORBAGOULART\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

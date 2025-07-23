@@ -13,3 +13,19 @@ C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Infr
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Infra\obj\Debug\net8.0\refint\LocaGames API.Infra.dll
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.pdb
 C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames API.Infra\obj\Debug\net8.0\ref\LocaGames API.Infra.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\bin\Debug\net8.0\LocaGames API.Infra.deps.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\bin\Debug\net8.0\LocaGames API.Infra.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\bin\Debug\net8.0\LocaGames API.Infra.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\bin\Debug\net8.0\LocaGames API.Domain.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\bin\Debug\net8.0\LocaGames API.Domain.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.csproj.AssemblyReference.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.AssemblyInfoInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.AssemblyInfo.cs
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.csproj.CoreCompileInputs.cache
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.sourcelink.json
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGame.3321732E.Up2Date
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\refint\LocaGames API.Infra.dll
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\LocaGames API.Infra.pdb
+C:\Users\SAMUELBORBAGOULART\Documents\aula_.Net\LocaGames API\LocaGames.API\LocaGames API.Infra\obj\Debug\net8.0\ref\LocaGames API.Infra.dll

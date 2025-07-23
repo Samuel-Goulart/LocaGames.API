@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API.Domain\\LocaGames API.Domain.csproj": {}
+    "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API.Domain\\LocaGames API.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API.Domain\\LocaGames API.Domain.csproj": {
+    "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API.Domain\\LocaGames API.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API.Domain\\LocaGames API.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API.Domain\\LocaGames API.Domain.csproj",
         "projectName": "LocaGames API.Domain",
-        "projectPath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API.Domain\\LocaGames API.Domain.csproj",
+        "projectPath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API.Domain\\LocaGames API.Domain.csproj",
         "packagesPath": "C:\\Users\\SAMUELBORBAGOULART\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames API.Domain\\obj\\",
+        "outputPath": "C:\\Users\\SAMUELBORBAGOULART\\Documents\\aula_.Net\\LocaGames API\\LocaGames.API\\LocaGames API.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

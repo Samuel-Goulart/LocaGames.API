@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocaGames API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e49757f4848af15fa1cd4ffb0d86f8beb96649a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocaGames API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocaGames API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
