@@ -17,4 +17,4 @@ O sistema foi organizado seguindo boas práticas de divisão de camadas:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Samuel-Goulart/LocaGames.API.git](https://github.com/Samuel-Goulart/LocaGames.API.git)
+     git clone https://github.com/Samuel-Goulart/Cadastro_alunos.git
