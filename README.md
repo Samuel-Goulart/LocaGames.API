@@ -15,6 +15,7 @@ O sistema foi organizado seguindo boas práticas de divisão de camadas:
 
 ## 🚀 Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-     git clone https://github.com/Samuel-Goulart/Cadastro_alunos.git
+1. Faça o download ou clone este repositório na sua máquina.
+2. Abra o arquivo `.sln` no **Visual Studio**.
+3. Compile e execute o projeto pressionando `F5`.
+
